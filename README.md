@@ -1,5 +1,5 @@
 # Edsger-Sketch
-An interactive learning tool to help teach students Dijkstra's algorithm.
+An interactive learning tool to help teach students Dijkstra's algorithm. <br />
 Main file is 'src/Main.py' or 'dist/Main.exe'.
 
 My A-level Python project for Computing. This project required me to go through the complete development process of a piece of software, including analysis of the current available resources, design, development and finally testing of my product, as documented in 'Documentation.pdf'.
